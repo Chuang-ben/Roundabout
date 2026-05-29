@@ -2,4 +2,4 @@
 /QGIS/
 *.qgs
 *.qgz
-/pretrend_figures/
+pretrend_figures/
